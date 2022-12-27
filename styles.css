@@ -1,6 +1,31 @@
 
 /* Your CSS Code here. */
-#row1-col1{
-background-color:  #117a65 ;
+.container-fluid{
+background-color: pink;
+height: 600px;
 
 }
+.row{
+height: 200px;
+
+}
+#row1-col1{
+background-color: green;
+
+}
+#row1-col2{
+background-color:magenta;
+
+}
+.col-2{
+    background-color: maroon;
+}
+#last{
+    background-color: maroon;
+
+}
+#row3-col1{
+    background-color: magenta;
+}
+
+
